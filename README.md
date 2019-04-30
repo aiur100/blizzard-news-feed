@@ -2,8 +2,8 @@
 Parses news information from the Blizzard website and 
 delivers it to your command line for easy hacker-like reading! ;) 
 
-#Requirements
+# Requirements
 * NodeJS (latest)
 
-#Run
+# Run
 `node main.js`

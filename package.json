@@ -1,0 +1,19 @@
+{
+  "name": "blizzard-news-feed",
+  "version": "1.0.0",
+  "description": "Blizzard Entertainment News CLI reader / parser",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiur100/blizzard-news-feed.git"
+  },
+  "author": "Christopher Hill and Jordan Hampson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiur100/blizzard-news-feed/issues"
+  },
+  "homepage": "https://github.com/aiur100/blizzard-news-feed#readme"
+}
